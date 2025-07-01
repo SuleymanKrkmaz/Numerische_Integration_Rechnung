@@ -1,4 +1,4 @@
-This project calculates Integration with numerical methods such as Monte Carlo and Rectangle methods. /n
+This project calculates Integration with numerical methods such as Monte Carlo and Rectangle methods. \
 n: number of steps
 SYMB : real result from integral calculation
 MC : Monte Carlo method's result
